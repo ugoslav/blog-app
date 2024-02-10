@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "content": "Things to do on a sunday morning",
+      "author": "Sam Feldt",
+      "likes": 11
+    },
+    {
+      "id": 2,
+      "content": "My first ever concert experience",
+      "author": "Marx Praxis",
+      "likes": 33
+    },
+    {
+      "id": 4,
+      "content": "Effect of global warming on polar caps",
+      "author": "Kanye West",
+      "likes": 86
+    },
+    {
+      "id": 5,
+      "content": "The curious case of Benjamin Button",
+      "author": "Brad Pitt",
+      "likes": 75
+    },
+    {
+      "content": "Trance music for eternity",
+      "author": "Arijit",
+      "likes": 19,
+      "id": 6
+    },
+    {
+      "content": "Oranges are good for health",
+      "author": "G Ottaviani",
+      "likes": 0,
+      "id": 8
+    },
+    {
+      "content": "Lets go romero",
+      "author": "G Ottaviani",
+      "likes": 16,
+      "id": 9
+    }
+  ]
+}

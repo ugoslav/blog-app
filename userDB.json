@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Seema Tapariya",
+      "password": "Sorceres"
+    },
+    {
+      "id": 2,
+      "name": "G Ottaviani",
+      "password": "Panama"
+    },
+    {
+      "id": 3,
+      "name": "AVB",
+      "password": "Put your phone down"
+    },
+    {
+      "name": "Arijit",
+      "password": "Kabira",
+      "id": 4
+    },
+    {
+      "name": "Subharup Chakraborty",
+      "password": "1234kolkata",
+      "id": 5
+    }
+  ]
+}

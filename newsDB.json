@@ -1,0 +1,27 @@
+{
+    "news": [
+        {
+            "id":1,
+            "pic":"https://sundayguardianlive.com/wp-content/uploads/2022/07/S.-Jaishankar.jpg",
+            "altText": "Jaishankar",
+            "text":"India’s Ambassador to the United Nations T.S. Thirumurthy informed by tweeting that Foreign Minister Dr. S Jaishankar has reached New York. The External Affairs Minister is on his 5-day visit to the US from today.",
+            "link": "https://www.mea.gov.in/press-releases.htm?dtl/37236/Visit_of_External_Affairs_Minister_of_India_Dr_S_Jaishankar_to_Italy_November_0203_2023"
+        }
+        ,
+        {
+            "id": 2,
+            "pic":"https://etimg.etb2bimg.com/photo/103650339.cms",
+            "altText": "Mark Zuckerberg",
+            "text":"Mark Zuckerberg announces the launch of Whatsapp Channels worldwide in over 150 countries.",
+            "link": "https://brandequity.economictimes.indiatimes.com/news/digital/mark-zuckerberg-announces-the-launch-of-whatsapp-channels/103650124#:~:text=WhatsApp%20Channels%20has%20been%20launched,to%20you%2C%20right%20within%20WhatsApp."
+        }
+        ,
+        {
+            "id": 3,
+            "pic": "https://thediplomat.com/wp-content/uploads/2023/04/sizes/medium/thediplomat_2023-04-25-185429.jpg",
+            "altText": "Israel",
+            "text":"Last week, the media was abuzz when Chinese Foreign Minister Qin Gang indicated his interest in helping mediate the Israel-Palestine conflict by speaking to both the Israeli and Palestinian foreign ministers.",
+            "link": "https://thediplomat.com/2023/04/chinas-offer-to-mediate-in-the-israel-palestine-conflict-is-overstated-for-now/"
+        }
+    ]
+}

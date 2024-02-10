@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(255, 246, 235);
+}
+
+#navBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    background-image: linear-gradient(45deg, white,grey);
+}
+
+#nav-option{
+    padding: 0 20px;
+    font-family: "Sofia", sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+#blog-section{
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 5px 10px 5px grey;
+    margin-top: 40px;
+}
+
+#division-line{
+    height: 2px;
+    background-color: rgb(151, 151, 151);
+    border-radius: 10px;
+    border-style: dotted;
+    border-color: white;
+    margin-left: 40px;
+    width: 95%;
+}
+
+#blogs{
+    margin-left: 40px;
+    
+}
+
+#blog{
+    border-style: solid;
+    border-radius: 20px;
+    border-color: grey;
+    width: 95%;
+    padding: 1vh 0 1vh 2vw;
+    margin: 10px 0;
+    background-image: linear-gradient(30deg,white,rgb(206, 206, 206));
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#news-section{
+    margin-top: 40px;
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 5px 10px 5px rgb(151, 151, 151);
+}
+
+#news{
+    display: flex;
+    flex-direction: row;
+    padding: 0px 30px;
+    margin: 20px 30px;
+}
+
+#article{
+    border-style:groove;
+    border-color: rgb(146, 131, 131);
+    border-radius: 20px;
+}
+
+#news-image{
+    padding: 0px 20px;
+    height: 500px;
+    width: 550px;
+}
+
+#footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px 0px 0px 0px;
+    font-family: 'Oswald', sans-serif;
+    font-size: large;
+    margin-top: 40px;
+}
+
+#signin-form{
+    text-align: center;
+    margin-top: 20vh;
+    display: flex;
+    flex-direction: column;
+    border-style: dotted;
+    border-radius: 20px;
+    border-color: rgb(253, 130, 150);
+    width: 50%;
+    margin-left: 25%;
+    background-image: linear-gradient(30deg, white,white,rgb(255, 154, 171))
+}
